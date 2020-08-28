@@ -1,2 +1,3 @@
 # Hello-w0rld
-Another Repo
+
+Hi Hoomans, l love learning new thangs using .net and coffeescript
